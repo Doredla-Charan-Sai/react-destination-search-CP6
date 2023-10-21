@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.img {
+  height: 150px;
+  width: 170px;
+  border-radius: 8px;
+}
+.img-name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  text-align: center;
+}
+.img-cont {
+  width: 170px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
